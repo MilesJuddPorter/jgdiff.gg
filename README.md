@@ -1,6 +1,8 @@
 # jgdiff.gg
 3rd Party League of Legends Jungler Data Insight Tool
 
+Accepted to build on the Overwolf platform - coming soon!
+
 
 How it works:
 
